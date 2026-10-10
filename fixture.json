@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "framework": "jekyll",
+  "sandbox": true,
+  "output_dir": "_site",
+  "source_files": [
+    "Gemfile",
+    "_config.yml",
+    "index.html",
+    "_layouts/default.html"
+  ],
+  "deploy_host": "github-pages",
+  "repository_prefix": "mlai-articles-fixture-"
+}
